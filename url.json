@@ -2,6 +2,7 @@
     "pic": {
       "all": "https://gitcode.net/hao/random-img/-/raw/master/all.csv",
       "ys": "https://gitcode.net/hao/random-img/-/raw/master/ys/ys.csv",
+      "gs": "https://gitcode.net/hao/random-img/-/raw/master/ys/ys.csv",
       "sr": "https://gitcode.net/hao/random-img/-/raw/master/sr/sr.csv",
       "pixiv": "https://gitcode.net/hao/random-img/-/raw/master/pixiv/pixiv.csv"
     }
