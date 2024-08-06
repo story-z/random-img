@@ -11,8 +11,8 @@ set "outputFile=!folderName!.csv"
 REM 清空输出文件
 type nul > %outputFile%
 
-REM 获取当前文件夹下的.jpg图片的文件名和后缀，并拼接文件夹名称
-for %%i in (*.jpg) do (
+REM 获取当前文件夹下所有图片文件的文件名和后缀，并拼接文件夹名称
+for %%i in (*.jpg *.jpeg *.png *.gif *.bmp) do (
     echo https://gitcode.net/hao/random-img/-/raw/master/!folderName!/%%~nxi>>%outputFile%
 )
 
