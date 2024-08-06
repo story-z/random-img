@@ -10,6 +10,7 @@
 | 图片 | 二次元     | [https://rapi.guss.gay/pic/pixiv](https://rapi.guss.gay/pic/pixiv)  |
 | 图片 | 小黑猫     | [https://rapi.guss.gay/pic/cat](https://rapi.guss.gay/pic/cat)  |
 | 图片 | capoo   | [https://rapi.guss.gay/pic/capoo](https://rapi.guss.gay/pic/capoo)  |
+| 图片 | 神乐七奈   | [https://rapi.guss.gay/pic/kagura](https://rapi.guss.gay/pic/kagura)  |
 | 视频 | 所有      | [https://rapi.guss.gay/video/all](https://rapi.guss.gay/video/all) |
 
                 

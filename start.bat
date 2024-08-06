@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 set "outputFile=all.csv"
 REM 需要排除的文件夹
-set "excludeDirs=cat capoo"
+set "excludeDirs=cat capoo kagura"
 
 REM 删除之前的合并文件
 if exist %outputFile% del %outputFile%
