@@ -1,14 +1,18 @@
 {
     "pic": {
-      "all": "https://gitcode.net/hao/random-img/-/raw/master/all.csv",
-      "ys": "https://gitcode.net/hao/random-img/-/raw/master/ys/ys.csv",
-      "gs": "https://gitcode.net/hao/random-img/-/raw/master/ys/ys.csv",
-      "sr": "https://gitcode.net/hao/random-img/-/raw/master/sr/sr.csv",
-      "pixiv": "https://gitcode.net/hao/random-img/-/raw/master/pixiv/pixiv.csv",
-      "cat": "https://gitcode.net/hao/random-img/-/raw/master/cat/cat.csv",
-      "capoo": "https://gitcode.net/hao/random-img/-/raw/master/capoo/capoo.csv",
-      "kagura": "https://gitcode.net/hao/random-img/-/raw/master/kagura/kagura.csv",
-      "chaijun": "https://gitcode.net/hao/random-img/-/raw/master/chaijun/chaijun.csv",
-      "cute": "https://gitcode.net/hao/random-img/-/raw/master/cute/cute.csv"
+      "all": "https://gitcode.net/hao/random-img/-/raw/master/pic/all.csv",
+      "ys": "https://gitcode.net/hao/random-img/-/raw/master/pic/ys/ys.csv",
+      "gs": "https://gitcode.net/hao/random-img/-/raw/master/pic/ys/ys.csv",
+      "sr": "https://gitcode.net/hao/random-img/-/raw/master/pic/sr/sr.csv",
+      "pixiv": "https://gitcode.net/hao/random-img/-/raw/master/pic/pixiv/pixiv.csv",
+      "cat": "https://gitcode.net/hao/random-img/-/raw/master/pic/cat/cat.csv",
+      "capoo": "https://gitcode.net/hao/random-img/-/raw/master/pic/capoo/capoo.csv",
+      "kagura": "https://gitcode.net/hao/random-img/-/raw/master/pic/kagura/kagura.csv",
+      "chaijun": "https://gitcode.net/hao/random-img/-/raw/master/pic/chaijun/chaijun.csv",
+      "cute": "https://gitcode.net/hao/random-img/-/raw/master/pic/cute/cute.csv"
+    },
+    "video":{
+      "all": "https://gitcode.net/hao/random-img/-/raw/master/video/all.csv",
+      "other": "https://gitcode.net/hao/random-img/-/raw/master/video/other/all.csv"
     }
 }
