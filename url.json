@@ -13,6 +13,6 @@
     },
     "video":{
       "all": "https://gitcode.net/hao/random-img/-/raw/master/video/all.csv",
-      "other": "https://gitcode.net/hao/random-img/-/raw/master/video/other/all.csv"
+      "other": "https://gitcode.net/hao/random-img/-/raw/master/video/other/other.csv"
     }
 }
