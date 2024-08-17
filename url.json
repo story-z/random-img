@@ -1,18 +1,18 @@
 {
     "pic": {
-      "all": "https://gitcode.net/hao/random-img/-/raw/master/pic/all.csv",
-      "ys": "https://gitcode.net/hao/random-img/-/raw/master/pic/ys/ys.csv",
-      "gs": "https://gitcode.net/hao/random-img/-/raw/master/pic/ys/ys.csv",
-      "sr": "https://gitcode.net/hao/random-img/-/raw/master/pic/sr/sr.csv",
-      "pixiv": "https://gitcode.net/hao/random-img/-/raw/master/pic/pixiv/pixiv.csv",
-      "cat": "https://gitcode.net/hao/random-img/-/raw/master/pic/cat/cat.csv",
-      "capoo": "https://gitcode.net/hao/random-img/-/raw/master/pic/capoo/capoo.csv",
-      "kagura": "https://gitcode.net/hao/random-img/-/raw/master/pic/kagura/kagura.csv",
-      "chaijun": "https://gitcode.net/hao/random-img/-/raw/master/pic/chaijun/chaijun.csv",
-      "cute": "https://gitcode.net/hao/random-img/-/raw/master/pic/cute/cute.csv"
+      "all": "pic/all.csv",
+      "ys": "pic/ys/ys.csv",
+      "gs": "pic/ys/ys.csv",
+      "sr": "pic/sr/sr.csv",
+      "pixiv": "pic/pixiv/pixiv.csv",
+      "cat": "pic/cat/cat.csv",
+      "capoo": "pic/capoo/capoo.csv",
+      "kagura": "pic/kagura/kagura.csv",
+      "chaijun": "pic/chaijun/chaijun.csv",
+      "cute": "pic/cute/cute.csv"
     },
     "video":{
-      "all": "https://gitcode.net/hao/random-img/-/raw/master/video/all.csv",
-      "other": "https://gitcode.net/hao/random-img/-/raw/master/video/other/other.csv"
+      "all": "video/all.csv",
+      "other": "video/other/other.csv"
     }
 }
