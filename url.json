@@ -1,18 +1,22 @@
 {
     "pic": {
-      "all": "pic/all.csv",
-      "ys": "pic/ys/ys.csv",
-      "gs": "pic/ys/ys.csv",
-      "sr": "pic/sr/sr.csv",
-      "pixiv": "pic/pixiv/pixiv.csv",
-      "cat": "pic/cat/cat.csv",
-      "capoo": "pic/capoo/capoo.csv",
-      "kagura": "pic/kagura/kagura.csv",
-      "chaijun": "pic/chaijun/chaijun.csv",
-      "cute": "pic/cute/cute.csv"
+        "all": "pic/all.csv",
+        "ys": "pic/ys/ys.csv",
+        "gs": "pic/ys/ys.csv",
+        "sr": "pic/sr/sr.csv",
+        "pixiv": "pic/pixiv/pixiv.csv",
+        "cat": "pic/cat/cat.csv",
+        "capoo": "pic/capoo/capoo.csv",
+        "kagura": "pic/kagura/kagura.csv",
+        "chaijun": "pic/chaijun/chaijun.csv",
+        "cute": "pic/cute/cute.csv",
+        "congyu": "pic/congyu/congyu.csv",
+        "mansui": "pic/mansui/mansui.csv",
+        "naxida": "pic/naxida/naxida.csv",
+        "xinhai": "pic/xinhai/xinhai.csv"
     },
-    "video":{
-      "all": "video/all.csv",
-      "other": "video/other/other.csv"
+    "video": {
+        "all": "video/all.csv",
+        "other": "video/other/other.csv"
     }
 }
