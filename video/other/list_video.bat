@@ -13,7 +13,7 @@ type nul > %outputFile%
 
 REM 获取当前文件夹下所有视频文件的文件名和后缀，并拼接文件夹名称
 for %%i in (*.mp4 *.mkv *.avi *.flv *.mov *.wmv *.webm) do (
-    echo /video/!folderName!/%%~nxi>>%outputFile%
+    echo video/!folderName!/%%~nxi>>%outputFile%
 )
 
 echo "扫描完成，结果保存在 %outputFile% 文件中"
