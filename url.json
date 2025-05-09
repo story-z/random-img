@@ -13,7 +13,8 @@
         "congyu": "pic/congyu/congyu.csv",
         "mansui": "pic/mansui/mansui.csv",
         "naxida": "pic/naxida/naxida.csv",
-        "xinhai": "pic/xinhai/xinhai.csv"
+        "xinhai": "pic/xinhai/xinhai.csv",
+        "doro": "pic/doro/doro.csv"
     },
     "video": {
         "all": "video/all.csv",
