@@ -1,23 +1,39 @@
 {
-    "pic": {
-        "all": "pic/all.csv",
-        "ys": "pic/ys/ys.csv",
-        "gs": "pic/ys/ys.csv",
-        "sr": "pic/sr/sr.csv",
-        "pixiv": "pic/pixiv/pixiv.csv",
-        "cat": "pic/cat/cat.csv",
-        "capoo": "pic/capoo/capoo.csv",
-        "kagura": "pic/kagura/kagura.csv",
-        "chaijun": "pic/chaijun/chaijun.csv",
-        "cute": "pic/cute/cute.csv",
-        "congyu": "pic/congyu/congyu.csv",
-        "mansui": "pic/mansui/mansui.csv",
-        "naxida": "pic/naxida/naxida.csv",
-        "xinhai": "pic/xinhai/xinhai.csv",
-        "doro": "pic/doro/doro.csv"
+  "pic": {
+    "emoticon": {
+      "capoo": "pic/emoticon/capoo/capoo.csv",
+      "cat": "pic/emoticon/cat/cat.csv",
+      "chaijun": "pic/emoticon/chaijun/chaijun.csv",
+      "congyu": "pic/emoticon/congyu/congyu.csv",
+      "cute": "pic/emoticon/cute/cute.csv",
+      "doro": "pic/emoticon/doro/doro.csv",
+      "kagura": "pic/emoticon/kagura/kagura.csv",
+      "mansui": "pic/emoticon/mansui/mansui.csv",
+      "naxida": "pic/emoticon/naxida/naxida.csv",
+      "xinhai": "pic/emoticon/xinhai/xinhai.csv",
+      "random": "pic/emoticon/emoticon.csv"
     },
-    "video": {
-        "all": "video/all.csv",
-        "other": "video/other/other.csv"
-    }
+    "image": {
+      "pixiv": "pic/image/pixiv/pixiv.csv",
+      "sr": "pic/image/sr/sr.csv",
+      "ys": "pic/image/ys/ys.csv",
+      "random": "pic/image/image.csv"
+    },
+    "mys": {
+      "bh2": "pic/mys/bh2/bh2.csv",
+      "bh3": "pic/mys/bh3/bh3.csv",
+      "mys": "pic/mys/mys/mys.csv",
+      "other": "pic/mys/other/other.csv",
+      "sr": "pic/mys/sr/sr.csv",
+      "wd": "pic/mys/wd/wd.csv",
+      "ys": "pic/mys/ys/ys.csv",
+      "zzz": "pic/mys/zzz/zzz.csv",
+      "random": "pic/mys/mys.csv"
+    },
+    "random": "pic/pic.csv"
+  },
+  "video": {
+    "other": "video/other/other.csv",
+    "random": "video/video.csv"
+  }
 }
