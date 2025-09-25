@@ -18,6 +18,7 @@
 | 表情包 | 满穗      | /pic/emoticon/mansui |
 | 表情包 | 纳西妲     | /pic/emoticon/naxida |
 | 表情包 | 心海      | /pic/emoticon/xinhai |
+| 表情包 | 啾啾 | /pic/emoticon/jiujiu |
 | 表情包 | 崩坏学园2   | /pic/mys/bh2 |
 | 表情包 | 崩坏3     | /pic/mys/bh3 |
 | 表情包 | 米游社     | /pic/mys/mys |
